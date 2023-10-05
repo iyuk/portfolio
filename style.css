@@ -1,0 +1,75 @@
+@font-face {
+  font-family: hammer;
+  src: url('fonts/HammersmithOne-Regular.ttf');
+}
+@font-face {
+  font-family: big-john;
+  src: url('fonts/BIGJOHN.otf');
+}
+.title-nav{
+	font-family: big-john;
+	font-weight: bold;
+	font-size: 25px !important;
+}
+/*text color*/
+.text-primary{
+	color: #F9322C !important;
+}
+.text-secondary{
+	color: #1c1e21 !important;
+}
+/*end text color*/
+
+/*colors */
+.primary{
+	background-color: #F9322C !important;
+}
+.secondary{
+	background-color: #f5f4f3!important;
+}
+/*end colors*/
+
+/*navbar*/
+.navbar-text{
+	font-size: 18px;
+}
+.navbar-white{
+	background-color: #fff;
+}
+/*end navbar*/
+
+.no-rounded{
+	border-radius: 0;
+}
+.btn-no-rounded{
+	border: 1px solid #F9322C !important;
+	padding: -10px 0;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+.title-text{
+	font-size: 80px;
+}
+.btn-started{
+	border: 1px solid #F9322C;
+}
+.about-title{
+	font-size: 50px;
+}
+.btn-footer{
+	color: white;
+	font-size: 20px;
+	letter-spacing: 3px;
+	font-weight: bold;
+	border: 1px solid #fff;
+	border-radius: 0;
+}
+.feather {
+  width: 25px;
+  height: 25px;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+}
